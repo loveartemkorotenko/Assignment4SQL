@@ -22,6 +22,7 @@
   4) Створено 1 Trigger та Function (`trg_after_order_item_insert` для автоматичного списання кількості товару зі складу після замовлення). (`create_view.sql`)
 
 P.c. будь ласка, не судіть строго, я над підключенням до пайтону згаяв пів дня ᓚᘏᗢ
+
 ---
 
 ## Структура бази даних (ERD)
@@ -31,7 +32,9 @@ https://mermaid.live/edit#pako:eNqlVFtvmzAU_iuWn1aJRtxCAm-I0A21WSJC9lAhIQ88ggo2M
 ### Альтернативна реалізація (не сподобалось відображення) через https://dbdiagram.io/home
 <img width="1898" height="916" alt="image" src="https://github.com/user-attachments/assets/81e31d67-6a21-4529-ba43-8bc9f03221e4" />
 
-##Результати оптимізації
+---
+
+## Результати оптимізації
 <img width="1348" height="148" alt="image" src="https://github.com/user-attachments/assets/9be33019-4dde-4bf8-8279-60d0f7929360" />
 
 <img width="1562" height="178" alt="image" src="https://github.com/user-attachments/assets/ad1fcb29-09ec-4c42-8d25-140dec97190b" />
