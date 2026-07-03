@@ -27,3 +27,7 @@ P.c. будь ласка, не судіть строго, я над підклю
 ## Структура бази даних (ERD)
 
 https://mermaid.live/edit#pako:eNqlVFtvmzAU_iuWn1aJRtxCAm-I0A21WSJC9lAhIQ88ggo2M0YaI_nvxSFltKGa1vntyN_lfMcHWhjTBEMLYrbKUMpQEbKQgO7sd66_A8fj7S09noto62_uvAd3BywQQsVSwAFVIZzAt2Djr0TVAwtEGlDmKMYjuGMH7ueN77kDp5Nf7Z3gFSumhKOMjHgX5bFP5AXuuqcJUs_MSJzXydhx0P8r9zvOKUkrwGnPfh2xfSnF-Wb7zhfb_6QZNyBLwPZ-6lKV5RuAC5TlYD8ATmPVP7P9d3VxWVeYRR3i7l4aWYjjfQ1AThuU8yYqaUZ4ddXA6Ck-mI2gAk9FG0b-sVQx4jilrOmTjVEr1_HW9gMoWRbjt3ErTuOn6GeNCM94c9XUZYP-d9BjROCt3V1gr7eAsqQDJF3j076XfXvXvOefW5DemIxhJaNJHfNpoJjBVXoowZRlCbQ4q7EEC8y6fexK2ApACPkBFziE4kNIEHvqFp8ITonII6XFC43ROj1A6wfKq66qSxH08t8YIJh0ERxaEw4tTTXOGtBq4S9oKepMNxemphsLQ9c109Qk2EDLMGaqKi8VU58bmrw0FycJ_j67yrOFqsimZiryYjk35fn89AwUCVb7
+
+##Результати оптимізації
+<img width="1562" height="178" alt="image" src="https://github.com/user-attachments/assets/ad1fcb29-09ec-4c42-8d25-140dec97190b" />
+<img width="1562" height="178" alt="image" src="https://github.com/user-attachments/assets/acda01e8-879a-448c-9214-44eed4032a1e" />
